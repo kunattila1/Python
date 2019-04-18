@@ -27,7 +27,7 @@ class szamologep:
         elif choice == "kivonni": szamologep.kivonas(n)
         elif choice == "összeadni": szamologep.osszeadas(n)
         elif choice == "az osztás maradékát megnézni": szamologep.modusz(n) 
-print("Számológép by Kun Attila 2018.02.10.")
+print("Számológép by Kun Attila 2019.04.15.")
 keywords = ["szorozni", "osztani","kivonni","összeadni","az osztás maradékát megnézni"]
 end = "nem"
 while end != "igen":
